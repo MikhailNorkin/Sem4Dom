@@ -2,7 +2,7 @@
 # N = 20 -> [2,5]
 # N = 30 -> [2, 3, 5]
 
-import Sem4Dom4.SemLib as name
+import SemLib as name
 
 number = name.get_number(f"Введите натуральное число: ")
 

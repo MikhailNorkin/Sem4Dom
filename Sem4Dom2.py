@@ -2,7 +2,7 @@
 # Не использовать множества.
 # [1,1,1,1,2,2,2,3,3,3,4] -> [1,2,3,4]
 
-import Sem4Dom4.SemLib as name
+import SemLib as name
 
 number = name.get_number(f"Введите количество элементов: ")
 
